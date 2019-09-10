@@ -1,0 +1,15 @@
+C:\GSSM1254\Labs\DotNet\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.csproj.CoreCompileInputs.cache
+C:\GSSM1254\Labs\DotNet\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.AssemblyInfoInputs.cache
+C:\GSSM1254\Labs\DotNet\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.AssemblyInfo.cs
+C:\GSSM1254\Labs\DotNet\AspNetCoreApp\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.deps.json
+C:\GSSM1254\Labs\DotNet\AspNetCoreApp\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.runtimeconfig.json
+C:\GSSM1254\Labs\DotNet\AspNetCoreApp\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.runtimeconfig.dev.json
+C:\GSSM1254\Labs\DotNet\AspNetCoreApp\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.dll
+C:\GSSM1254\Labs\DotNet\AspNetCoreApp\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.pdb
+C:\GSSM1254\Labs\DotNet\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.csprojAssemblyReference.cache
+C:\GSSM1254\Labs\DotNet\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.RazorAssemblyInfo.cache
+C:\GSSM1254\Labs\DotNet\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.RazorAssemblyInfo.cs
+C:\GSSM1254\Labs\DotNet\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\GSSM1254\Labs\DotNet\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.RazorTargetAssemblyInfo.cache
+C:\GSSM1254\Labs\DotNet\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.dll
+C:\GSSM1254\Labs\DotNet\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.pdb
